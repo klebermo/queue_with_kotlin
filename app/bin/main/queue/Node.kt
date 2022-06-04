@@ -1,5 +1,0 @@
-package list
-
-class Node {
-    //
-}
